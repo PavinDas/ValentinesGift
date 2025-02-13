@@ -24,5 +24,5 @@ noButton.addEventListener("mouseover", () => {
 });
 
 noButton.addEventListener("click", () => {
-  alert("Please click Yes! You know you want to!");
+  alert("Yes para koppe 🤨");
 });

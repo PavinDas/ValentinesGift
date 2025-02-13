@@ -7,6 +7,7 @@ document.getElementById("revealButton").addEventListener("click", function () {
 document.getElementById("yesButton").addEventListener("click", function () {
   document.getElementById("revealMessage").style.display = "none";
   document.getElementById("gifContainer").style.display = "block";
+  document.getElementById("revealButton").style.display = "none";
 });
 
 const noButton = document.getElementById("noButton");
